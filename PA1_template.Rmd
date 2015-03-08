@@ -1,6 +1,6 @@
----
-title: "Peer Assignment 1"
----
+-----------------------------------
+Peer Assignment 1
+-----------------------------------
 ## Charging necessaries libraries
 ```{r ,results='hide',message=FALSE}
 library(knitr)
